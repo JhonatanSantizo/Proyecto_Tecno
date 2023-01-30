@@ -1,0 +1,12 @@
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\Login con Crud.exe.config
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\Login con Crud.exe
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\Login con Crud.pdb
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\Login con Crud.xml
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login con Crud.vbprojResolveAssemblyReference.cache
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login_con_Crud.Form1.resources
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login_con_Crud.frmAdministrador.resources
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login_con_Crud.Resources.resources
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login con Crud.vbproj.GenerateResource.Cache
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login con Crud.exe
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login con Crud.xml
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login con Crud.pdb
